@@ -1,0 +1,8 @@
+.body_bg_area {
+  background-image: url("back1.JPG");
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
